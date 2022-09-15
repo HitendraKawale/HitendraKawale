@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HitendraKawale&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HitendraKawale&show_icons=true&theme=random)
