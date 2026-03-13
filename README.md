@@ -13,7 +13,7 @@
 - Polyglot and fascinated by languages (human and programming)
 - Passionate about humanity's future with AI
 
-##Links
+## Links
 
 LinkedIn: https://www.linkedin.com/in/hitendra-kawale/
 
