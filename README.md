@@ -15,6 +15,6 @@
 
 ##Links
 
-LinkedIn: https://www.linkedin.com/hitendra-kawale/
+LinkedIn: https://www.linkedin.com/in/hitendra-kawale/
 
 
