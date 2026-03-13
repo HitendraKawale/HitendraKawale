@@ -11,7 +11,7 @@
 ## A bit about me
 
 - Polyglot and fascinated by languages (human and programming)
-- Optimistic about a future where humans and AI work together
+- Passionate about humanity's future with AI
 
 ##Links
 
