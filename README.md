@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hitendra Kawale · 泽贤
@@ -7,14 +8,14 @@
 MSc Artificial Intelligence, University of Surrey ·
 B.E. Computer Engineering (Hons. AI/ML)
 
-[**Portfolio**](https://hitendrakawale.github.io) · [**Blog**](https://hite[**Email**](mailto:hituhitesh303@gmail.com)
+[**Portfolio**](https://hitendrakawale.github.io) · 
+[**Blog**](https://hitendrakawale.github.io/blog) · 
+[**Email**](mailto:hituhitesh303@gmail.com)     
 
-</div>
-
----
-
-- 🔭 **Now** — turning my dissertation (scribble-guided segmentation for Gaussian Splatting, buioable release
-- ⚔️ **Arsenal** — Python · PyTorch · Hugging Face · LangChain · vLLM ·  FastAPI · PostgreSQL +
+</div>                                                                  
+---                                                                     
+- 🔭 **Now** — turning my dissertation (scribble-guided segmentation forGaussian Splatting, buioable release
+- ⚔️ **Arsenal** — Python · PyTorch · Hugging Face · LangChain · vLLM · FastAPI · PostgreSQL +
 - 🗣 **Polyglot** — English · Español · 中文 · हिन्दी · मराठी · and a few more scripts than I can spea
 - 📍 **UK** — open to AI engineering roles
 
