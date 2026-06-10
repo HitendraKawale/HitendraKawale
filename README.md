@@ -25,5 +25,5 @@ B.E. Computer Engineering (Hons. AI/ML)
 
 
 <div align="center">
-<sub><em>"Keep struggling!"</em></sub>
+<sub><em>"keep struggling."</em></sub>
 </div>
