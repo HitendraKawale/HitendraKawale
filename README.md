@@ -12,15 +12,18 @@ B.E. Computer Engineering (Hons. AI/ML)
 [**Blog**](https://hitendrakawale.github.io/blog) · 
 [**Email**](mailto:hituhitesh303@gmail.com)     
 
-</div>                                                                  
----                                                                     
+</div>  
+
+---
+                                                                     
 - 🔭 **Now** — turning my dissertation (scribble-guided segmentation forGaussian Splatting, buioable release
 - ⚔️ **Arsenal** — Python · PyTorch · Hugging Face · LangChain · vLLM · FastAPI · PostgreSQL +
-- 🗣 **Polyglot** — English · Español · 中文 · हिन्दी · मराठी · and a few more scripts than I can spea
+- 🗣 **Polyglot** — English · Español · 中文 · हिन्दी · मराठी · and a few more scripts than I can speak
 - 📍 **UK** — open to AI engineering roles
 
 ---
 
+
 <div align="center">
-<sub><em>"If you're a scontend."</em></sub>
+<sub><em>"Keep struggling!"</em></sub>
 </div>
