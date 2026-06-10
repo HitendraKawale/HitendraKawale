@@ -16,7 +16,7 @@ B.E. Computer Engineering (Hons. AI/ML)
 
 ---
                                                                      
-- 🔭 **Now** — turning my dissertation (scribble-guided segmentation forGaussian Splatting, buioable release
+- 🔭 **Now** — going all-in on NLP and multilingual AI: working through the full NLP stack, from tokenizers to transformers. A polyglot teaching machines to become one.
 - ⚔️ **Arsenal** — Python · PyTorch · Hugging Face · LangChain · vLLM · FastAPI · PostgreSQL +
 - 🗣 **Polyglot** — English · Español · 中文 · हिन्दी · मराठी · and a few more scripts than I can speak
 - 📍 **UK** — open to AI engineering roles
