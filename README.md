@@ -5,7 +5,7 @@
 
 **AI Engineer** — RAG pipelines · LLM systems · 3D computer vision
 
-MSc Artificial Intelligence, University of Surrey ·
+MS Artificial Intelligence, University of Surrey ·
 B.E. Computer Engineering (Hons. AI/ML)
 
 [**Portfolio**](https://hitendrakawale.github.io) · 
