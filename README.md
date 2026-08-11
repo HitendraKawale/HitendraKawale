@@ -2,7 +2,7 @@
 
 # HITENDRA KAWALE
 
-### 泽贤
+### 高泽贤
 
 **AI Engineer** — Audio & NLP · LLM platforms · RAG pipelines · 3D vision
 
