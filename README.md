@@ -12,7 +12,7 @@
 ![Based](https://img.shields.io/badge/based-UK-12100c?style=flat-square&labelColor=0a0806)
 ![Tongues](https://img.shields.io/badge/tongues-8-c8a24a?style=flat-square&labelColor=0a0806)
 
-**[ [Portfolio](https://hitendrakawale.github.io) ]** · **[ [Chronicles](https://hitendrakawale.github.io/blog) ]** · **[ [Resume](https://hitendrakawale.github.io/resume.pdf) ]**
+**[ [Portfolio](https://hitendrakawale.github.io) ]** · **[ [Chronicles](https://hitendrakawale.github.io/blog) ]** · **[ [Codeberg](https://codeberg.org/HitendraKawale) ]** · **[ [Resume](https://hitendrakawale.github.io/resume.pdf) ]**
 
 </div>
 
@@ -22,6 +22,17 @@
 
 Deep in audio and NLP — speech models and the full text stack, tokenizers to transformers. A polyglot teaching machines to hear and speak.
 
+### `[ Deeds ]`
+
+| Project | | Measured |
+|:--|:--|:--|
+| **[Log Guardian](https://github.com/HitendraKawale/log-guardian)** | Log anomaly detection, Kafka streaming, feedback retraining | ROC-AUC 0.89 · p95 24 ms |
+| **[Mini OpenAI Platform](https://github.com/HitendraKawale/mini-openai-platform)** | Self-hosted LLM platform, OpenAI-compatible | ~80× faster on cache hits |
+| **[Chat2Study](https://github.com/HitendraKawale/chat2study)** | Chat transcripts → searchable knowledge bases | 30–90 s → ~10 ms ingestion |
+| **[RAG Chunk Visualizer](https://huggingface.co/spaces/HitendraKawale/rag-chunk-visualizer)** | Every RAG stage made inspectable | 5 providers · 59 tests |
+| **Scribble-Guided 3D Segmentation** | MSc dissertation — Gaussian Splatting | +1–2% precision over SAGA |
+
+**[ [The full armoury →](https://hitendrakawale.github.io/projects) ]**
 
 ### `[ Arsenal ]`
 
@@ -48,8 +59,10 @@ Open to roles, freelance, and stubborn problems. Lead with the problem.
 
 [![Email](https://img.shields.io/badge/Email-93171b?style=flat-square&logo=gmail&logoColor=ece4d4&labelColor=0a0806)](mailto:hituhitesh303@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100c?style=flat-square&labelColor=0a0806)](https://linkedin.com/in/hitendra-kawale)
+[![Codeberg](https://img.shields.io/badge/Codeberg-12100c?style=flat-square&logo=codeberg&logoColor=c8a24a&labelColor=0a0806)](https://codeberg.org/HitendraKawale)
 
 <div align="center">
 <br>
 <sub><em>"keep struggling."</em></sub>
 </div>
+
