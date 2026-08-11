@@ -4,7 +4,7 @@
 
 ### 泽贤
 
-**AI Engineer** — LLM platforms · RAG pipelines · 3D vision
+**AI Engineer** — Audio & NLP · LLM platforms · RAG pipelines · 3D vision
 
 <sub>MSc Artificial Intelligence, University of Surrey</sub>
 
@@ -20,7 +20,7 @@
 
 ### `[ Now ]`
 
-All-in on NLP and multilingual AI — the full stack, tokenizers to transformers. A polyglot teaching machines to become one.
+Deep in audio and NLP — speech models and the full text stack, tokenizers to transformers. A polyglot teaching machines to hear and speak.
 
 ### `[ Deeds ]`
 
