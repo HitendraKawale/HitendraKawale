@@ -22,17 +22,6 @@
 
 Deep in audio and NLP — speech models and the full text stack, tokenizers to transformers. A polyglot teaching machines to hear and speak.
 
-### `[ Deeds ]`
-
-| Project | | Measured |
-|:--|:--|:--|
-| **[Log Guardian](https://github.com/HitendraKawale/log-guardian)** | Log anomaly detection, Kafka streaming, feedback retraining | ROC-AUC 0.89 · p95 24 ms |
-| **[Mini OpenAI Platform](https://github.com/HitendraKawale/mini-openai-platform)** | Self-hosted LLM platform, OpenAI-compatible | ~80× faster on cache hits |
-| **[Chat2Study](https://github.com/HitendraKawale/chat2study)** | Chat transcripts → searchable knowledge bases | 30–90 s → ~10 ms ingestion |
-| **[RAG Chunk Visualizer](https://huggingface.co/spaces/HitendraKawale/rag-chunk-visualizer)** | Every RAG stage made inspectable | 5 providers · 59 tests |
-| **Scribble-Guided 3D Segmentation** | MSc dissertation — Gaussian Splatting | +1–2% precision over SAGA |
-
-**[ [The full armoury →](https://hitendrakawale.github.io/projects) ]**
 
 ### `[ Arsenal ]`
 
