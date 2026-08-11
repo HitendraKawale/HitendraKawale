@@ -20,7 +20,7 @@
 
 ### `[ Now ]`
 
-Deep in audio and NLP — speech models and the full text stack, tokenizers to transformers. A polyglot teaching machines to hear and speak.
+Deep in audio and NLP — speech models and the full text stack, tokenizers to transformers. A polyglot teaching machines to hear and speak. Also learning zig on the side
 
 
 ### `[ Arsenal ]`
